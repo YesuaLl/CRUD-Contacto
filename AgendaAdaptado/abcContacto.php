@@ -107,11 +107,11 @@ if ($sErr == "") {
 		<input type="hidden" name="txtClave" value="<?php echo $sCve; ?>">
     
 		Nombre:
-    <br>
+    	<br>
 		<input type="text" name="txtNombre"
 			<?php echo ($bCampoEditable ? "" : "disabled"); ?>
 			value="<?php echo $oContacto->getNombre(); ?>" required>
-		
+		<br>
 
 		Dirección:<br>
 		<input type="text" name="txtDireccion"
