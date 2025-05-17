@@ -12,7 +12,7 @@
 **Instalación:**
     
     1. Clona el repositorio
-    git clone https://github.com/CRUD-Contactos.git
+    https://github.com/YesuaLl/CRUD-Contacto.git
 
     2. Ubica el proyecto en tu servidor local XAMPP Copia la
     carpeta del proyecto dentro de htdocs.
