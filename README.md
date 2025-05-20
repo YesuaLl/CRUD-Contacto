@@ -13,7 +13,7 @@
 [Repositorio](https://github.com/YesuaLl/CRUD-Contacto.git)
     
     1. Clona el repositorio
-    https://github.com/YesuaLl/CRUD-Contacto.git
+    (https://github.com/YesuaLl/CRUD-Contacto.git)
 
     2. Ubica el proyecto en tu servidor local XAMPP Copia la
     carpeta del proyecto dentro de htdocs.
